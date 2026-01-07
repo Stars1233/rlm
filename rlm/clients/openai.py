@@ -87,7 +87,7 @@ class OpenAIClient(BaseLM):
             raise ValueError("Model name is required for OpenAI client.")
 
         extra_body = {}
-        if self.base_url == DEFAULT_PRIME_INTELLECT_BASE_URL:
+        if self.client.base_url == DEFAULT_PRIME_INTELLECT_BASE_URL:
             extra_body["usage"] = {"include": True}
 
         response = await self.async_client.chat.completions.create(
