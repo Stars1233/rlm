@@ -152,9 +152,10 @@ If you use this code or repository in your research, please cite:
 }
 ```
 
-## RLMs in the Wild
+## RLMs being used in the wild
 There are many amazing demos and production-ready use cases of RLMs. We provide a list of notable examples that explicitly use RLMs as a central piece of their design.
 * <img src="https://www.google.com/s2/favicons?domain=dspy.ai&sz=64" alt="DSPy" height="15" style="vertical-align: middle;"/> [DSPy.RLM](https://github.com/stanfordnlp/dspy) <a href="https://github.com/stanfordnlp/dspy/stargazers"><img src="https://badgen.net/github/stars/stanfordnlp/dspy?icon=github&label=Stars" height="15" alt="GitHub stars"></a>
+* <img src="https://github.com/PrimeIntellect-ai.png" alt="Prime Intellect" height="15" style="vertical-align: middle;"/> [Prime Agent](https://github.com/PrimeIntellect-ai/prime-agent) <a href="https://github.com/PrimeIntellect-ai/prime-agent/stargazers"><img src="https://badgen.net/github/stars/PrimeIntellect-ai/prime-agent?icon=github&label=Stars" height="15" alt="GitHub stars"></a>
 * <img src="https://github.com/ax-llm.png" alt="Ax" height="15" style="vertical-align: middle;"/> [Ax](https://github.com/ax-llm/ax) <a href="https://github.com/ax-llm/ax/stargazers"><img src="https://badgen.net/github/stars/ax-llm/ax?icon=github&label=Stars" height="15" alt="GitHub stars"></a>
 * <img src="https://github.com/context-labs.png" alt="context-labs" height="15" style="vertical-align: middle;"/> [context-labs/HALO: **RLM-based Automatic Agent Optimization Loop**](https://github.com/context-labs/halo) <a href="https://github.com/context-labs/halo/stargazers"><img src="https://badgen.net/github/stars/context-labs/halo?icon=github&label=Stars" height="15" alt="GitHub stars"></a>
 * [viplismism/rlm-cli: **CLI for Recursive Language Models**](https://github.com/viplismism/rlm-cli) <a href="https://github.com/viplismism/rlm-cli/stargazers"><img src="https://badgen.net/github/stars/viplismism/rlm-cli?icon=github&label=Stars" height="15" alt="GitHub stars"></a>
